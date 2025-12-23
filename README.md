@@ -1,4 +1,4 @@
-# 📝 Task Manager – Vanilla JavaScript To-Do App
+# 📝 Task Manager – JavaScript To-Do App
 
 A **clean, professional, portfolio-ready To-Do List application** built using **HTML, CSS, and Vanilla JavaScript**.  
 This project supports **full CRUD operations**, task filtering, and **persistent storage using LocalStorage**.
